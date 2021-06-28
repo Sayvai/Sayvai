@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there, and welcome to my GitHub profile 🤓
+I am a frontend software engineer. Currently working on a ReactJS / TypeScript frontend project at [Sky](https://www.sky.com/)
 
-<!--
-**Sayvai/Sayvai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Constantly learning and keeping base on evolving JavaScript tech, optimisations, and tips!
+<br>
 
-Here are some ideas to get you started:
+## Expertise
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" />
+<img align="left" alt="CSS" src="https://img.shields.io/badge/css%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%233178C6" />
+<img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
+<img align="left" alt="AngularJS" src="https://img.shields.io/badge/angular%20js%20-%2320232a.svg?&style=for-the-badge&logo=angularjs&logoColor=%23E23237" />
+<img align="left" alt="Jest" src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325" />
+<img align="left" alt="Cypress" src="https://img.shields.io/badge/cypress%20-%2320232a.svg?&style=for-the-badge&logo=cypress&logoColor=%23#17202C" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+<br>
+
+## Tooling / IDE
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%2320232a.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC" />
+<img align="left" alt="WebPack" src="https://img.shields.io/badge/webpack%20-%2320232a.svg?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9" />
+<img align="left" alt="Babel" src="https://img.shields.io/badge/babel%20-%2320232a.svg?&style=for-the-badge&logo=babel&logoColor=%23F9DC3E" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=%23F05032" />
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%23181717" />
+<img align="left" alt="JIRA" src="https://img.shields.io/badge/jira%20-%2320232a.svg?&style=for-the-badge&logo=jira&logoColor=%230052CC" />
+<img align="left" alt="Confluence" src="https://img.shields.io/badge/Confluence%20-%2320232a.svg?&style=for-the-badge&logo=confluence&logoColor=%23172B4D" />
+
+<br>
+<br>
+
+## Connect with me
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sayvai/)
