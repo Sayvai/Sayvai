@@ -12,15 +12,15 @@ Constantly learning and keeping base on evolving JavaScript tech, optimisations,
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
-<img align="left" alt="AngularJS" src="https://img.shields.io/badge/angular%20js%20-%2320232a.svg?&style=for-the-badge&logo=angularjs&logoColor=%23E23237" />
 <img align="left" alt="Jest" src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325" />
 <img align="left" alt="Cypress" src="https://img.shields.io/badge/cypress%20-%2320232a.svg?&style=for-the-badge&logo=cypress&logoColor=%23#17202C" />
+<img align="left" alt="AngularJS" src="https://img.shields.io/badge/angular%20js%20-%2320232a.svg?&style=for-the-badge&logo=angularjs&logoColor=%23E23237" />
 
 
 <br>
 <br>
 
-## Tooling / IDE
+## Tooling / IDE / Platforms
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%2320232a.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC" />
 <img align="left" alt="WebPack" src="https://img.shields.io/badge/webpack%20-%2320232a.svg?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9" />
 <img align="left" alt="Babel" src="https://img.shields.io/badge/babel%20-%2320232a.svg?&style=for-the-badge&logo=babel&logoColor=%23F9DC3E" />
@@ -28,6 +28,10 @@ Constantly learning and keeping base on evolving JavaScript tech, optimisations,
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%23181717" />
 <img align="left" alt="JIRA" src="https://img.shields.io/badge/jira%20-%2320232a.svg?&style=for-the-badge&logo=jira&logoColor=%230052CC" />
 <img align="left" alt="Confluence" src="https://img.shields.io/badge/Confluence%20-%2320232a.svg?&style=for-the-badge&logo=confluence&logoColor=%23172B4D" />
+<img align="left" alt="NPM" src="https://img.shields.io/badge/npm%20-%2320232a.svg?&style=for-the-badge&logo=npm&logoColor=%23#CB3837" />
+<img align="left" alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=jenkins&logoColor=%23D24939" />
+<img align="left" alt="Mac OS" src="https://img.shields.io/badge/mac%20os%20-%2320232a.svg?&style=for-the-badge&logo=macos&logoColor=%23FFFFFF" />
+
 
 <br>
 <br>
