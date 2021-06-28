@@ -10,7 +10,6 @@ Constantly learning and keeping base on evolving JavaScript tech, optimisations,
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%233178C6" />
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
 <img align="left" alt="Jest" src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325" />
 <img align="left" alt="Cypress" src="https://img.shields.io/badge/cypress%20-%2320232a.svg?&style=for-the-badge&logo=cypress&logoColor=%23#17202C" />
