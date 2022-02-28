@@ -14,8 +14,10 @@ Please refer to my [LinkedIn](https://www.linkedin.com/in/sayvai/) profile for a
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%233178C6" />
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="Next.js" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%23ffffff" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
 <img align="left" alt="Jest" src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325" />
+<img align="left" alt="React Testing Library" src="https://img.shields.io/badge/React Testing Library%20-%2320232a.svg?&style=for-the-badge&logo=testinglibrary&logoColor=%23E33332" />
 <img align="left" alt="Cypress" src="https://img.shields.io/badge/cypress%20-%2320232a.svg?&style=for-the-badge&logo=cypress&logoColor=%23#17202C" />
 <img align="left" alt="AngularJS" src="https://img.shields.io/badge/angular%20js%20-%2320232a.svg?&style=for-the-badge&logo=angularjs&logoColor=%23E23237" />
 
