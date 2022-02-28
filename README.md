@@ -8,7 +8,7 @@ The skills set listed below is not fully comprehensive, listing my current worki
 Please refer to my [LinkedIn](https://www.linkedin.com/in/sayvai/) profile for a full history.
 <br>
 
-## Expertise
+## Skills
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
