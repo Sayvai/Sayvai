@@ -1,5 +1,5 @@
 ### Hi there, and welcome to my GitHub profile 🤓
-I am a frontend software engineer. Currently working on a ReactJS / TypeScript frontend project at [Sky](https://www.sky.com/)
+I am a frontend software engineer. Currently leveraging and applying my expertise on a ReactJS / TypeScript frontend project to my client at [Babylon](https://www.babylonhealth.com/en-gb)
 
 Constantly learning and keeping base on evolving JavaScript tech, optimisations, and tips!
 
