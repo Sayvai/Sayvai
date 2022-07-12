@@ -5,7 +5,6 @@ Constantly learning and keeping base on evolving JavaScript tech, optimisations,
 
 The skills set listed below is not fully comprehensive, listing my current working and active expertise, tooling, IDE, and platforms.
 
-Please refer to my [LinkedIn](https://www.linkedin.com/in/sayvai/) profile for a full history.
 <br>
 
 ## Skills
