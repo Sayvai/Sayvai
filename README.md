@@ -15,6 +15,9 @@ The skills set listed below is not fully comprehensive, listing my current worki
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%23ffffff" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
+<img align="left" alt="Redux" src="https://img.shields.io/badge/recoil%20-%2320232a.svg?&style=for-the-badge&logo=recoil&logoColor=%23764ABC" />
+<img align="left" alt="Redux" src="https://img.shields.io/badge/nestjs%20-%2320232a.svg?&style=for-the-badge&logo=nestjs&logoColor=%23E0234E" />
+<img align="left" alt="Redux" src="https://img.shields.io/badge/storybook%20-%2320232a.svg?&style=for-the-badge&logo=storybook&logoColor=%23FF4785" />
 <img align="left" alt="Jest" src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&logo=jest&logoColor=%23C21325" />
 <img align="left" alt="React Testing Library" src="https://img.shields.io/badge/React Testing Library%20-%2320232a.svg?&style=for-the-badge&logo=testinglibrary&logoColor=%23E33332" />
 <img align="left" alt="Cypress" src="https://img.shields.io/badge/cypress%20-%2320232a.svg?&style=for-the-badge&logo=cypress&logoColor=%23#17202C" />
@@ -43,3 +46,12 @@ The skills set listed below is not fully comprehensive, listing my current worki
 ## Connect with me
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sayvai/)
+
+<br>
+<br>
+
+## References
+
+*Badges customised from [shields.io](https://shields.io/)*
+<br>
+*Icons sourced from [simpleicons.org](https://simpleicons.org/)*
