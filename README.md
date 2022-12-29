@@ -16,6 +16,7 @@ The skills set listed below is not fully comprehensive, listing my current worki
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%23ffffff" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
 <img align="left" alt="Recoil" src="https://img.shields.io/badge/recoil%20-%2320232a.svg?&style=for-the-badge&logo=recoil&logoColor=%233578e5" />
+<img align="left" alt="React Query" src="https://img.shields.io/badge/React Query%20-%2320232a.svg?&style=for-the-badge&logo=reactquery&logoColor=%23FF4154" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%23339933" />
 <img align="left" alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%2320232a.svg?&style=for-the-badge&logo=nestjs&logoColor=%23E0234E" />
 <img align="left" alt="SASS" src="https://img.shields.io/badge/SASS%20-%2320232a.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699" />
