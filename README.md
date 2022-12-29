@@ -27,8 +27,12 @@ The skills set listed below is not fully comprehensive, listing my current worki
 <img align="left" alt="Cypress" src="https://img.shields.io/badge/cypress%20-%2320232a.svg?&style=for-the-badge&logo=cypress&logoColor=%23#17202C" />
 <img align="left" alt="AngularJS" src="https://img.shields.io/badge/angular%20js%20-%2320232a.svg?&style=for-the-badge&logo=angularjs&logoColor=%23E23237" />
 
+
+\
+\
 <br/>
 <br/>
+
 
 ## Tooling / IDE / Platforms
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%2320232a.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=%23007ACC" />
@@ -42,15 +46,15 @@ The skills set listed below is not fully comprehensive, listing my current worki
 <img align="left" alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%2320232a.svg?&style=for-the-badge&logo=jenkins&logoColor=%23D24939" />
 <img align="left" alt="Mac OS" src="https://img.shields.io/badge/mac%20os%20-%2320232a.svg?&style=for-the-badge&logo=macos&logoColor=%23FFFFFF" />
 
-<br/>
-<br/>
+\
+\
 
 ## Connect with me
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sayvai/)
 
-<br/>
-<br/>
+\
+\
 
 ## References
 
