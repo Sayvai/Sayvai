@@ -18,6 +18,7 @@ The skills set listed below is not fully comprehensive, listing my current worki
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Next.js" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%23ffffff" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux%20-%2320232a.svg?&style=for-the-badge&logo=redux&logoColor=%23764ABC" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%233776AB" />
 <img align="left" alt="Recoil" src="https://img.shields.io/badge/recoil%20-%2320232a.svg?&style=for-the-badge&logo=recoil&logoColor=%233578e5" />
 <img align="left" alt="React Query" src="https://img.shields.io/badge/React Query%20-%2320232a.svg?&style=for-the-badge&logo=reactquery&logoColor=%23FF4154" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%23339933" />
@@ -50,6 +51,18 @@ The skills set listed below is not fully comprehensive, listing my current worki
 
 \
 \
+<br/>
+<br/>
+
+## Certifications
+[<img align="left" alt="Meta Back-End Developer Certificate" src="https://github.com/Sayvai/Sayvai/assets/7581546/d86c21ec-3449-4d99-9708-0cd096b823ae" width="176" style="display:block;" />](https://www.credly.com/badges/5506e9b4-f274-47aa-9f20-0da3b48d5e8d/public_url)
+
+\
+\
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
