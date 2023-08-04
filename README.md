@@ -55,23 +55,14 @@ The skills set listed below is not fully comprehensive, listing my current worki
 <br/>
 
 ## Certifications
-[<img align="left" alt="Meta Back-End Developer Certificate" src="https://github.com/Sayvai/Sayvai/assets/7581546/d86c21ec-3449-4d99-9708-0cd096b823ae" width="176" style="display:block;" />](https://www.credly.com/badges/5506e9b4-f274-47aa-9f20-0da3b48d5e8d/public_url)
+[<img align="left" alt="Meta Back-End Developer Certificate" src="https://github.com/Sayvai/Sayvai/assets/7581546/43856a61-7df1-4105-9488-a037d7b352e4" width="450" />](https://coursera.org/verify/specialization/UXA6SA86LL4N)
+[<img alt="Building Serverless Applications on AWS" src="https://github.com/Sayvai/Sayvai/assets/7581546/fe674e7c-df2c-4586-b981-6e35f49c60df" width="450" />](https://coursera.org/verify/specialization/ZHDVC7VBXQAS)
 
-\
-\
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## Connect with me
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sayvai/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sayvai/)
 
-\
-\
-<br/>
 <br/>
 
 ## References
