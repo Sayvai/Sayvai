@@ -1,7 +1,18 @@
+<table>
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <a href="https://digiflow.dev" target="_blank"><img src="assets/digiflow-logo.svg" alt="DigiFlow logo" width="76" /></a>
+    </td>
+    <td valign="middle">
+      <h1>Hi, I'm Sayvai Tosu 👋</h1>
+      <strong>Senior Software Engineer</strong>
+      <br />
+      <sub>AI-Augmented Engineering</sub>
+    </td>
+  </tr>
+</table>
 
-# Hi, I'm Sayvai Tosu 👋
-
-### Senior Software Engineer | AI-Augmented Engineering
+---
 
 Senior Software Engineer with **15+ years' experience** designing, architecting and delivering scalable, user-centric software products across media, fintech, healthcare and SaaS.
 
@@ -9,7 +20,7 @@ My engineering experience spans **React, TypeScript, Node.js and full-stack prod
 
 I'm particularly interested in how **Agentic AI and AI-assisted engineering** can extend traditional development workflows beyond code generation — from automated investigation and root-cause analysis to intelligent code reviews and engineering quality.
 
-🌐 **Portfolio:** [digiflow.dev](https://digiflow.dev)  
+🌐 **Portfolio:** [digiflow.dev](https://digiflow.dev)
 💼 **LinkedIn:** [linkedin.com/in/sayvai](https://www.linkedin.com/in/sayvai/)
 
 ---
